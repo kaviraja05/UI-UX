@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+  --font-abeezee: ABeeZee;
+  --font-grand-hotel: "Grand Hotel";
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-gray-100: rgba(0, 0, 0, 0.49);
+  --color-darkmagenta-100: rgba(197, 40, 171, 0.87);
+
+  /* Gaps */
+  --gap-smi: 13px;
+  --gap-9xs: 4px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-4xs: 9px;
+  --padding-8xs: 5px;
+  --padding-10xs: 3px;
+  --padding-xl: 20px;
+  --padding-5xs: 8px;
+  --padding-12xs: 1px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}
